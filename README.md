@@ -7,7 +7,7 @@ This project is a clone of the Netflix website, built as a part of learning web 
 
 ## Live Demo 🚀
 
-Check out the live demo [here](https://netflix-clone-website-eta-one.vercel.app/).
+https://netflix-clone-website-eta-one.vercel.app/
 
 ## Features 🌟
 
