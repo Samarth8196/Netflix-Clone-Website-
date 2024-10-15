@@ -2,7 +2,7 @@
 
 This project is a clone of the Netflix website, built as a part of learning web development skills.
 
-[image](https://raw.githubusercontent.com/Samarth8196/Netflix-Clone-Website-/refs/heads/master/image.png)
+(https://raw.githubusercontent.com/Samarth8196/Netflix-Clone-Website-/refs/heads/master/image.png)
 
 
 ## Live Demo 🚀
